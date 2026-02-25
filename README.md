@@ -146,3 +146,4 @@ A modern, AI-powered financial management application with professional UI desig
 **Note**: This application requires a valid Clerk account and API key for authentication functionality.
 # Client-Budget
 # Client-Budget
+# Client-Budget
